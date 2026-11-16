@@ -1,0 +1,1199 @@
+{
+ "version": 2,
+ "categories": [
+  {
+   "id": "psy",
+   "label": "Psychology",
+   "light": "#2F4FA8",
+   "dark": "#8FA8F0"
+  },
+  {
+   "id": "grow",
+   "label": "Self-growth",
+   "light": "#A0610E",
+   "dark": "#E3A857"
+  },
+  {
+   "id": "biz",
+   "label": "Business",
+   "light": "#6A3D9A",
+   "dark": "#B89AE6"
+  },
+  {
+   "id": "isl",
+   "label": "Islamic",
+   "light": "#17725A",
+   "dark": "#5FC7A6"
+  }
+ ],
+ "books": [
+  {
+   "id": "kahneman",
+   "title": "Thinking, Fast and Slow",
+   "author": "Daniel Kahneman",
+   "c": "psy",
+   "about": "A Nobel-winning psychologist explains the two systems that drive how we think: the fast, intuitive one and the slow, deliberate one, and the predictable mistakes that happen when we trust the wrong one."
+  },
+  {
+   "id": "mindset",
+   "title": "Mindset",
+   "author": "Carol Dweck",
+   "c": "psy",
+   "about": "Why some people grow through failure while others are crushed by it. The difference is whether you believe ability is fixed or can be developed."
+  },
+  {
+   "id": "frankl",
+   "title": "Man's Search for Meaning",
+   "author": "Viktor Frankl",
+   "c": "psy",
+   "about": "A psychiatrist who survived Auschwitz describes what kept people alive in the camps, and argues that the main drive in human life is finding meaning."
+  },
+  {
+   "id": "burns",
+   "title": "Feeling Good",
+   "author": "David D. Burns",
+   "c": "psy",
+   "about": "The classic self-help guide to cognitive behavioural therapy: how distorted thoughts create bad moods, and how to talk back to them."
+  },
+  {
+   "id": "cialdini",
+   "title": "Influence",
+   "author": "Robert Cialdini",
+   "c": "psy",
+   "about": "The six principles of persuasion, including reciprocity, social proof and scarcity, and how to use them honestly and defend against people who misuse them."
+  },
+  {
+   "id": "grit",
+   "title": "Grit",
+   "author": "Angela Duckworth",
+   "c": "psy",
+   "about": "Research showing that passion plus long-term perseverance predicts success better than talent does."
+  },
+  {
+   "id": "confgap",
+   "title": "The Confidence Gap",
+   "author": "Russ Harris",
+   "c": "psy",
+   "about": "A practical guide to acting with courage while still feeling fear, based on Acceptance and Commitment Therapy."
+  },
+  {
+   "id": "housel",
+   "title": "The Psychology of Money",
+   "author": "Morgan Housel",
+   "c": "psy",
+   "about": "Short stories about how people think about money. Doing well with money is less about knowledge and more about behaviour."
+  },
+  {
+   "id": "atomic",
+   "title": "Atomic Habits",
+   "author": "James Clear",
+   "c": "grow",
+   "about": "A practical system for building good habits and breaking bad ones through tiny changes that compound over time."
+  },
+  {
+   "id": "deepwork",
+   "title": "Deep Work",
+   "author": "Cal Newport",
+   "c": "grow",
+   "about": "Why the ability to focus without distraction on hard tasks is rare, valuable and trainable."
+  },
+  {
+   "id": "covey",
+   "title": "The 7 Habits of Highly Effective People",
+   "author": "Stephen Covey",
+   "c": "grow",
+   "about": "Principle-centred habits for personal and interpersonal effectiveness, starting from character rather than technique."
+  },
+  {
+   "id": "firstthings",
+   "title": "First Things First",
+   "author": "Stephen Covey",
+   "c": "grow",
+   "about": "Time management built around what matters most instead of what is most urgent."
+  },
+  {
+   "id": "carnegie",
+   "title": "How to Win Friends and Influence People",
+   "author": "Dale Carnegie",
+   "c": "grow",
+   "about": "The timeless guide to getting along with people: listen, appreciate sincerely, and see things from the other person's side."
+  },
+  {
+   "id": "quran",
+   "title": "The Noble Qur'an",
+   "author": "Revealed to the Prophet Muhammad ﷺ",
+   "c": "isl",
+   "about": "The word of Allah. These cards hold verses about change, patience and knowledge."
+  },
+  {
+   "id": "bukhari",
+   "title": "Sahih al-Bukhari",
+   "author": "Imam Muhammad ibn Isma'il al-Bukhari",
+   "c": "isl",
+   "about": "The most authentic collection of hadith after the Qur'an. Hadith marked with both Bukhari and Muslim are agreed upon (muttafaq 'alayh)."
+  },
+  {
+   "id": "muslim",
+   "title": "Sahih Muslim",
+   "author": "Imam Muslim ibn al-Hajjaj",
+   "c": "isl",
+   "about": "The second of the two Sahih collections, known for its careful arrangement of narrations."
+  },
+  {
+   "id": "nawawi",
+   "title": "The Forty Hadith",
+   "author": "Imam Yahya ibn Sharaf an-Nawawi",
+   "c": "isl",
+   "about": "Forty-two short hadith that an-Nawawi chose because together they cover the foundations of the religion."
+  },
+  {
+   "id": "tirmidhi",
+   "title": "Jami' at-Tirmidhi",
+   "author": "Imam Muhammad ibn 'Isa at-Tirmidhi",
+   "c": "isl",
+   "about": "One of the six major hadith collections, notable for grading each narration."
+  },
+  {
+   "id": "hakim",
+   "title": "Al-Mustadrak",
+   "author": "Imam al-Hakim an-Naysaburi",
+   "c": "isl",
+   "about": "A collection of narrations al-Hakim judged to meet the conditions of Bukhari and Muslim but not included by them."
+  },
+  {
+   "id": "hilya",
+   "title": "Hilyat al-Awliya",
+   "author": "Abu Nu'aym al-Asbahani",
+   "c": "isl",
+   "about": "A large collection of biographies and sayings of the Companions, the early generations and the righteous scholars."
+  },
+  {
+   "id": "oettingen",
+   "title": "Rethinking Positive Thinking",
+   "author": "Gabriele Oettingen",
+   "c": "psy",
+   "about": "Twenty years of research showing that positive fantasies alone drain motivation, and the simple WOOP method that turns wishes into action."
+  },
+  {
+   "id": "wood",
+   "title": "Good Habits, Bad Habits",
+   "author": "Wendy Wood",
+   "c": "psy",
+   "about": "The science of the automatic part of your mind: habits form from repeating actions in the same context, and you change them by changing the context, not by relying on willpower."
+  },
+  {
+   "id": "branden",
+   "title": "The Six Pillars of Self-Esteem",
+   "author": "Nathaniel Branden",
+   "c": "psy",
+   "about": "A classic on what self-esteem really is, and the six daily practices that build it, including living consciously and keeping your word to yourself."
+  },
+  {
+   "id": "murphy",
+   "title": "The Power of Your Subconscious Mind",
+   "author": "Joseph Murphy",
+   "c": "psy",
+   "about": "A 1963 bestseller that made 'subconscious programming' popular through repetition and visualisation. It's inspiring, but many of its claims are not backed by science, so read it with care."
+  },
+  {
+   "id": "fawaid",
+   "title": "Al-Fawa'id",
+   "author": "Ibn al-Qayyim al-Jawziyya",
+   "c": "isl",
+   "about": "Short, deep reflections on the heart, the self and the path to Allah by one of the great scholars of the 14th century."
+  },
+  {
+   "id": "voss",
+   "title": "Never Split the Difference",
+   "author": "Chris Voss",
+   "c": "grow",
+   "about": "A former FBI hostage negotiator's techniques for any conversation where something is at stake: listening, labelling emotions, and reaching real agreement."
+  },
+  {
+   "id": "crucial",
+   "title": "Crucial Conversations",
+   "author": "Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler",
+   "c": "grow",
+   "about": "How to talk when the stakes are high, opinions differ and emotions run strong, without going silent or getting aggressive."
+  },
+  {
+   "id": "hormozi",
+   "title": "$100M Offers",
+   "author": "Alex Hormozi",
+   "c": "biz",
+   "about": "How to build an offer so valuable that people feel stupid saying no, based on a simple value equation."
+  },
+  {
+   "id": "momtest",
+   "title": "The Mom Test",
+   "author": "Rob Fitzpatrick",
+   "c": "biz",
+   "about": "How to talk to customers and find out whether your business idea is any good, even though everyone lies to you to be polite."
+  },
+  {
+   "id": "storybrand",
+   "title": "Building a StoryBrand",
+   "author": "Donald Miller",
+   "c": "biz",
+   "about": "A simple framework for clear marketing: make the customer the hero of the story, and your brand the guide who helps them win."
+  },
+  {
+   "id": "emyth",
+   "title": "The E-Myth Revisited",
+   "author": "Michael E. Gerber",
+   "c": "biz",
+   "about": "Why most small businesses fail, and how to build one that runs on systems instead of on the owner always being there."
+  },
+  {
+   "id": "goodtogreat",
+   "title": "Good to Great",
+   "author": "Jim Collins",
+   "c": "biz",
+   "about": "A study of companies that jumped from average to outstanding results and stayed there, and what they did differently."
+  },
+  {
+   "id": "zerotoone",
+   "title": "Zero to One",
+   "author": "Peter Thiel",
+   "c": "biz",
+   "about": "The PayPal co-founder on building something truly new instead of copying what already exists."
+  },
+  {
+   "id": "history",
+   "title": "Genius Moves",
+   "author": "Business history",
+   "c": "biz",
+   "about": "True stories of smart decisions that built great companies, and the lesson you can take from each one."
+  },
+  {
+   "id": "sirah",
+   "title": "The Life of the Prophet ﷺ",
+   "author": "Ibn Hisham (from Ibn Ishaq)",
+   "c": "isl",
+   "about": "The earliest full biography of the Prophet Muhammad ﷺ, including his years as a trusted merchant before prophethood."
+  }
+ ],
+ "cards": [
+  {
+   "id": "p1",
+   "c": "psy",
+   "book": "kahneman",
+   "t": "Your brain has two speeds",
+   "b": "One part of your mind reacts fast and on instinct. The other is slow, careful and lazy. Most mistakes happen when the fast part answers a question that needed the slow part.",
+   "x": "Before a big decision today, pause and ask: am I reacting, or thinking?",
+   "s": "Thinking, Fast and Slow — Daniel Kahneman"
+  },
+  {
+   "id": "p2",
+   "c": "psy",
+   "book": "kahneman",
+   "t": "Losses hurt about twice as much as gains feel good",
+   "b": "Losing 20 euros stings more than finding 20 euros pleases you. That is why fear of loss often stops people from trying new things that would help them.",
+   "x": "Name one thing you avoid only because you might lose a little.",
+   "s": "Thinking, Fast and Slow — Daniel Kahneman"
+  },
+  {
+   "id": "p11",
+   "c": "psy",
+   "book": "kahneman",
+   "t": "The first number sticks",
+   "b": "The first number you hear, even a random one, pulls your estimate toward it. This is called anchoring, and sellers and negotiators use it on purpose.",
+   "x": "In your next negotiation, say your number first.",
+   "s": "Thinking, Fast and Slow — Daniel Kahneman"
+  },
+  {
+   "id": "p3",
+   "c": "psy",
+   "book": "mindset",
+   "t": "\"Not yet\" changes everything",
+   "b": "People with a fixed mindset think ability is set at birth, so failure feels like a verdict. People with a growth mindset see ability as something trained, so failure is just feedback.",
+   "x": "Replace \"I'm bad at this\" with \"I'm not good at this yet.\"",
+   "s": "Mindset — Carol Dweck"
+  },
+  {
+   "id": "p4",
+   "c": "psy",
+   "book": "frankl",
+   "t": "Between what happens and how you respond, there is a gap",
+   "b": "Frankl survived the Nazi camps and noticed that even there, people kept one freedom: choosing their attitude. That small space before you react is where your strength lives.",
+   "x": "Next time you get annoyed, count to three before you answer.",
+   "s": "Man's Search for Meaning — Viktor Frankl"
+  },
+  {
+   "id": "p5",
+   "c": "psy",
+   "book": "frankl",
+   "t": "A reason to live makes hardship bearable",
+   "b": "Prisoners who held on to a purpose, a person to return to or work to finish, endured far better than those who lost it. Meaning is fuel.",
+   "x": "Write one sentence: who or what am I doing this for?",
+   "s": "Man's Search for Meaning — Viktor Frankl"
+  },
+  {
+   "id": "p6",
+   "c": "psy",
+   "book": "burns",
+   "t": "Your thoughts are not facts",
+   "b": "Low mood comes from thinking traps: all-or-nothing thinking, mind reading, fortune telling, labelling yourself. Catching the trap by name weakens it.",
+   "x": "When you think \"they think I'm stupid\", ask: what's the actual evidence?",
+   "s": "Feeling Good — David D. Burns"
+  },
+  {
+   "id": "p7",
+   "c": "psy",
+   "book": "cialdini",
+   "t": "People want to repay kindness",
+   "b": "Reciprocity is one of the strongest social rules. When you give first, help, share or listen, people naturally want to give back. Also notice when someone uses a small gift to push you.",
+   "x": "Do one helpful thing today without asking for anything.",
+   "s": "Influence — Robert Cialdini"
+  },
+  {
+   "id": "p8",
+   "c": "psy",
+   "book": "cialdini",
+   "t": "We copy the crowd when we're unsure",
+   "b": "When we don't know what to do, we look at what others are doing. That's social proof. Useful, but dangerous: the crowd is often unsure too.",
+   "x": "Notice one choice this week you made only because others did.",
+   "s": "Influence — Robert Cialdini"
+  },
+  {
+   "id": "p9",
+   "c": "psy",
+   "book": "grit",
+   "t": "Effort counts twice",
+   "b": "Talent times effort gives skill. Skill times effort gives results. Effort shows up in both steps, which is why steady people overtake gifted ones.",
+   "x": "Pick one skill and put 20 focused minutes into it today.",
+   "s": "Grit — Angela Duckworth"
+  },
+  {
+   "id": "p10",
+   "c": "psy",
+   "book": "confgap",
+   "t": "Confidence comes after action, not before",
+   "b": "Most people wait to feel confident before they act. It works the other way: you act while still nervous, and the feeling of confidence grows from the doing.",
+   "x": "Do the scary small thing while scared. Let the feeling catch up.",
+   "s": "The Confidence Gap — Russ Harris"
+  },
+  {
+   "id": "p12",
+   "c": "psy",
+   "book": "housel",
+   "t": "Wealth is what you don't see",
+   "b": "Rich is the car you see someone driving. Wealth is the money they chose not to spend. Real wealth is invisible: savings, freedom and options.",
+   "x": "Move a small amount to savings today, before you spend anything.",
+   "s": "The Psychology of Money — Morgan Housel"
+  },
+  {
+   "id": "p13",
+   "c": "psy",
+   "book": "housel",
+   "t": "Know what \"enough\" is",
+   "b": "The hardest money skill is getting the goalpost to stop moving. Without a sense of enough, more never feels like enough.",
+   "x": "Write down what \"enough\" looks like for you.",
+   "s": "The Psychology of Money — Morgan Housel"
+  },
+  {
+   "id": "g1",
+   "c": "grow",
+   "book": "atomic",
+   "t": "Get 1% better every day",
+   "b": "Tiny improvements look like nothing on a single day. Over a year they compound into something huge, just like small savings do with interest.",
+   "x": "Choose one habit so small it feels too easy. Start today.",
+   "s": "Atomic Habits — James Clear"
+  },
+  {
+   "id": "g2",
+   "c": "grow",
+   "book": "atomic",
+   "t": "Become the type of person, not just hit the goal",
+   "b": "The deepest habit change is identity. Instead of \"I want to read a book\", think \"I am a reader.\" Every small action is a vote for who you are becoming.",
+   "x": "Finish this sentence: I am the kind of person who…",
+   "s": "Atomic Habits — James Clear"
+  },
+  {
+   "id": "g3",
+   "c": "grow",
+   "book": "atomic",
+   "t": "Design your space, not your willpower",
+   "b": "Willpower runs out. Environment doesn't. Put the book on your pillow, the phone in another room. Make good habits obvious and easy, bad ones hidden and hard.",
+   "x": "Move one temptation out of sight tonight.",
+   "s": "Atomic Habits — James Clear"
+  },
+  {
+   "id": "g11",
+   "c": "grow",
+   "book": "atomic",
+   "t": "Stack new habits on old ones",
+   "b": "Link a new habit to one you already do: \"After I [current habit], I will [new habit].\" The old habit becomes the reminder for the new one.",
+   "x": "After I pray Fajr, I will read one page.",
+   "s": "Atomic Habits — James Clear"
+  },
+  {
+   "id": "g12",
+   "c": "grow",
+   "book": "atomic",
+   "t": "Never miss twice",
+   "b": "Missing once is an accident. Missing twice is the start of a new, bad habit. Aim to get back on track fast, not to be perfect.",
+   "x": "Missed something yesterday? Do a tiny version of it today.",
+   "s": "Atomic Habits — James Clear"
+  },
+  {
+   "id": "g4",
+   "c": "grow",
+   "book": "deepwork",
+   "t": "Focus is a superpower now",
+   "b": "Most people are constantly distracted. The ability to concentrate deeply on one hard thing is becoming rare, so it is becoming very valuable.",
+   "x": "Set a 45-minute timer, phone away, one task only.",
+   "s": "Deep Work — Cal Newport"
+  },
+  {
+   "id": "g15",
+   "c": "grow",
+   "book": "deepwork",
+   "t": "Switching tasks leaves your mind split",
+   "b": "When you jump from one task to another, part of your attention stays stuck on the first one. Quick phone checks keep your mind permanently divided.",
+   "x": "Check messages at two or three set times today, not all day.",
+   "s": "Deep Work — Cal Newport"
+  },
+  {
+   "id": "g5",
+   "c": "grow",
+   "book": "covey",
+   "t": "Work on what you can control",
+   "b": "Picture two circles: things you worry about, and things you can actually affect. Proactive people spend their energy in the smaller circle, and it slowly grows.",
+   "x": "List one worry. Then write one action inside your control about it.",
+   "s": "The 7 Habits of Highly Effective People — Stephen Covey"
+  },
+  {
+   "id": "g6",
+   "c": "grow",
+   "book": "covey",
+   "t": "Begin with the end in mind",
+   "b": "Imagine what you want people to say about you at the end of your life. Then check whether your daily schedule is actually moving you there.",
+   "x": "Write three words you'd want people to use about you.",
+   "s": "The 7 Habits of Highly Effective People — Stephen Covey"
+  },
+  {
+   "id": "g13",
+   "c": "grow",
+   "book": "covey",
+   "t": "Seek first to understand",
+   "b": "Most people listen in order to reply. Listen to understand first, and people become much more open to hearing you.",
+   "x": "In your next disagreement, repeat their point back before giving yours.",
+   "s": "The 7 Habits of Highly Effective People — Stephen Covey"
+  },
+  {
+   "id": "g7",
+   "c": "grow",
+   "book": "firstthings",
+   "t": "Big rocks first",
+   "b": "If you fill a jar with sand first, the big rocks won't fit. Put the important things into your day first, and the small stuff fits around them.",
+   "x": "Name tomorrow's one big rock tonight.",
+   "s": "First Things First — Stephen Covey"
+  },
+  {
+   "id": "g8",
+   "c": "grow",
+   "book": "carnegie",
+   "t": "A person's name is music to them",
+   "b": "Remembering and using someone's name makes them feel seen. It's one of the easiest ways to be liked and respected.",
+   "x": "Use the name of the next person you speak with.",
+   "s": "How to Win Friends and Influence People — Dale Carnegie"
+  },
+  {
+   "id": "g9",
+   "c": "grow",
+   "book": "carnegie",
+   "t": "Be interested, not interesting",
+   "b": "People enjoy talking with someone who listens well far more than with someone who talks well. Ask about them, and let them speak.",
+   "x": "In your next conversation, ask two follow-up questions.",
+   "s": "How to Win Friends and Influence People — Dale Carnegie"
+  },
+  {
+   "id": "g14",
+   "c": "grow",
+   "book": "carnegie",
+   "t": "Don't criticise, condemn or complain",
+   "b": "Criticism makes people defensive, and they rarely change because of it. Understanding and honest appreciation change people far more.",
+   "x": "Go one full day without complaining. Notice how often you want to.",
+   "s": "How to Win Friends and Influence People — Dale Carnegie"
+  },
+  {
+   "id": "g10",
+   "c": "grow",
+   "t": "Your future self is a stranger you're working for",
+   "b": "Small daily choices (sleep, reading, money, prayer) are gifts or debts to the person you'll be in five years. Treat him like someone you care about.",
+   "x": "Do one thing tonight that future-you will thank you for.",
+   "s": "Ideas from Atomic Habits & Grit"
+  },
+  {
+   "id": "i1",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "Everything starts with intention",
+   "a": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+   "b": "Actions are judged by intentions, and every person gets what they intended.",
+   "x": "Before studying today, make the intention to benefit yourself and others for Allah's sake.",
+   "s": "Sahih al-Bukhari 1 · Sahih Muslim 1907"
+  },
+  {
+   "id": "i2",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "Real strength is self-control",
+   "a": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+   "b": "The strong one is not the one who overpowers others in wrestling. The strong one is he who controls himself when angry.",
+   "x": "When anger rises, stay silent and change your position.",
+   "s": "Sahih al-Bukhari 6114 · Sahih Muslim 2609"
+  },
+  {
+   "id": "i3",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "Small and steady beats big and rare",
+   "a": "أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ",
+   "b": "The deeds most beloved to Allah are the most consistent ones, even if they are small.",
+   "x": "Pick one small daily deed: two pages of Qur'an, or one dhikr after every prayer.",
+   "s": "Sahih al-Bukhari 6464 · Sahih Muslim 783"
+  },
+  {
+   "id": "i4",
+   "c": "isl",
+   "book": "muslim",
+   "t": "The strong believer",
+   "a": "الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ، احْرِصْ عَلَى مَا يَنْفَعُكَ، وَاسْتَعِنْ بِاللَّهِ وَلَا تَعْجَزْ",
+   "b": "The strong believer is better and more beloved to Allah than the weak believer, and there is good in both. Be eager for what benefits you, seek Allah's help, and do not give up.",
+   "x": "Choose one beneficial thing and push for it today, with du'a.",
+   "s": "Sahih Muslim 2664"
+  },
+  {
+   "id": "i5",
+   "c": "isl",
+   "book": "muslim",
+   "t": "For the believer, everything is good",
+   "a": "عَجَبًا لِأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ",
+   "b": "How amazing is the affair of the believer: all of it is good. If something good happens he is grateful, and if something bad happens he is patient, and both are good for him.",
+   "x": "Name one blessing and one hardship today. Thank Allah for the first, be patient with the second.",
+   "s": "Sahih Muslim 2999"
+  },
+  {
+   "id": "i6",
+   "c": "isl",
+   "book": "muslim",
+   "t": "Seeking knowledge is a road to Jannah",
+   "a": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ",
+   "b": "Whoever takes a path seeking knowledge, Allah makes easy for him a path to Paradise.",
+   "x": "Your reading here counts. Renew the intention.",
+   "s": "Sahih Muslim 2699"
+  },
+  {
+   "id": "i7",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "Speak good or stay silent",
+   "a": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+   "b": "Whoever believes in Allah and the Last Day, let him say something good or remain silent.",
+   "x": "Before you post or reply today, ask: is this good?",
+   "s": "Sahih al-Bukhari 6018 · Sahih Muslim 47"
+  },
+  {
+   "id": "i8",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "Want for others what you want for yourself",
+   "a": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+   "b": "None of you truly believes until he loves for his brother what he loves for himself.",
+   "x": "Make du'a today for a friend, asking for the same thing you want.",
+   "s": "Sahih al-Bukhari 13 · Sahih Muslim 45"
+  },
+  {
+   "id": "i9",
+   "c": "isl",
+   "book": "nawawi",
+   "t": "Leave what doesn't concern you",
+   "a": "مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ",
+   "b": "Part of the excellence of a person's Islam is leaving what does not concern him.",
+   "x": "Skip one piece of gossip or pointless scrolling today.",
+   "s": "40 Hadith of an-Nawawi #12 · Jami' at-Tirmidhi 2317 (hasan)"
+  },
+  {
+   "id": "i10",
+   "c": "isl",
+   "book": "hakim",
+   "t": "Five before five",
+   "a": "اغْتَنِمْ خَمْسًا قَبْلَ خَمْسٍ: شَبَابَكَ قَبْلَ هَرَمِكَ، وَصِحَّتَكَ قَبْلَ سَقَمِكَ، وَغِنَاكَ قَبْلَ فَقْرِكَ، وَفَرَاغَكَ قَبْلَ شُغْلِكَ، وَحَيَاتَكَ قَبْلَ مَوْتِكَ",
+   "b": "Take advantage of five before five: your youth before old age, your health before sickness, your wealth before poverty, your free time before you get busy, and your life before death.",
+   "x": "Which of the five do you have most of right now? Use it.",
+   "s": "Al-Mustadrak of al-Hakim 7846 (graded sahih by al-Albani)"
+  },
+  {
+   "id": "i11",
+   "c": "isl",
+   "book": "quran",
+   "t": "Change starts inside",
+   "a": "إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ",
+   "b": "Indeed, Allah will not change the condition of a people until they change what is within themselves.",
+   "x": "Pick one inner thing to change this week: a habit, a thought, a sin.",
+   "s": "Qur'an 13:11 (Surat ar-Ra'd)"
+  },
+  {
+   "id": "i12",
+   "c": "isl",
+   "book": "quran",
+   "t": "With hardship comes ease",
+   "a": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+   "b": "So surely with hardship comes ease. Surely with hardship comes ease. It is said twice, as a promise.",
+   "x": "Whatever is heavy right now, remember: ease is already attached to it.",
+   "s": "Qur'an 94:5–6 (Surat ash-Sharh)"
+  },
+  {
+   "id": "i13",
+   "c": "isl",
+   "book": "quran",
+   "t": "The du'a for getting smarter",
+   "a": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+   "b": "And say: My Lord, increase me in knowledge. Allah told the Prophet ﷺ to ask for more of only one thing: knowledge.",
+   "x": "Say this du'a every time you open this app.",
+   "s": "Qur'an 20:114 (Surat Taha)"
+  },
+  {
+   "id": "i14",
+   "c": "isl",
+   "book": "hilya",
+   "t": "Knowledge is what benefits",
+   "a": "الْعِلْمُ مَا نَفَعَ، لَيْسَ الْعِلْمُ مَا حُفِظَ",
+   "b": "Imam ash-Shafi'i said: knowledge is what benefits, not what is merely memorised. Reading is only the start; acting on it is the point.",
+   "x": "From today's cards, act on just one.",
+   "s": "Imam ash-Shafi'i · Hilyat al-Awliya (Abu Nu'aym)"
+  },
+  {
+   "id": "i15",
+   "c": "isl",
+   "book": "hilya",
+   "t": "You are only a number of days",
+   "a": "يَا ابْنَ آدَمَ، إِنَّمَا أَنْتَ أَيَّامٌ، كُلَّمَا ذَهَبَ يَوْمٌ ذَهَبَ بَعْضُكَ",
+   "b": "Al-Hasan al-Basri said: O son of Adam, you are nothing but days. Every time a day passes, a part of you is gone.",
+   "x": "Make today count for one good thing.",
+   "s": "Al-Hasan al-Basri · Hilyat al-Awliya (Abu Nu'aym)"
+  },
+  {
+   "id": "i16",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "The best of you",
+   "a": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+   "b": "The best of you are those who learn the Qur'an and teach it.",
+   "x": "Learn the meaning of one ayah today and share it with someone.",
+   "s": "Sahih al-Bukhari 5027"
+  },
+  {
+   "id": "i17",
+   "c": "isl",
+   "book": "muslim",
+   "t": "Allah looks at the heart",
+   "a": "إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ",
+   "b": "Allah does not look at your appearance or your wealth, but He looks at your hearts and your deeds.",
+   "x": "Fix one hidden thing between you and Allah today.",
+   "s": "Sahih Muslim 2564"
+  },
+  {
+   "id": "i18",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "Make things easy",
+   "a": "يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا",
+   "b": "Make things easy and do not make them difficult. Give good news and do not drive people away.",
+   "x": "Be the easy one today: at home, at work, in the masjid.",
+   "s": "Sahih al-Bukhari 69"
+  },
+  {
+   "id": "i19",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "Be like a traveller",
+   "a": "كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ",
+   "b": "The Prophet ﷺ took Ibn 'Umar by the shoulder and said: Be in this world as if you were a stranger or a traveller.",
+   "x": "Before an argument or a purchase, ask: will this matter on the journey?",
+   "s": "Sahih al-Bukhari 6416"
+  },
+  {
+   "id": "i20",
+   "c": "isl",
+   "book": "nawawi",
+   "t": "Follow a bad deed with a good one",
+   "a": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ",
+   "b": "Fear Allah wherever you are, follow a bad deed with a good deed and it will wipe it out, and treat people with good character.",
+   "x": "Made a mistake today? Follow it right away with a good deed.",
+   "s": "40 Hadith of an-Nawawi #18 · Jami' at-Tirmidhi 1987 (hasan)"
+  },
+  {
+   "id": "i21",
+   "c": "isl",
+   "book": "tirmidhi",
+   "t": "A smile is charity",
+   "a": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
+   "b": "Your smiling in the face of your brother is charity for you.",
+   "x": "Smile at three people today.",
+   "s": "Jami' at-Tirmidhi 1956"
+  },
+  {
+   "id": "p14",
+   "c": "psy",
+   "book": "oettingen",
+   "t": "Dreaming alone makes you weaker",
+   "b": "In Oettingen's studies, people who only fantasised about a great outcome put in less effort and achieved less. The mind treats the dream as if you've already arrived, so your drive drops.",
+   "x": "Keep the dream, but always pair it with the obstacle in your way.",
+   "s": "Rethinking Positive Thinking — Gabriele Oettingen"
+  },
+  {
+   "id": "p15",
+   "c": "psy",
+   "book": "oettingen",
+   "t": "WOOP: turn a wish into a plan",
+   "b": "Four steps, five minutes. Close your eyes for the middle two.",
+   "steps": [
+    "Wish: one wish for the next 4 weeks that's challenging but doable",
+    "Outcome: imagine the best result. How does it feel?",
+    "Obstacle: find the main obstacle inside you, like a habit, feeling or belief",
+    "Plan: write \"If [obstacle], then I will [action].\""
+   ],
+   "x": "WOOP one goal tonight before you sleep.",
+   "s": "Rethinking Positive Thinking — Gabriele Oettingen"
+  },
+  {
+   "id": "p16",
+   "c": "psy",
+   "t": "If-then plans beat good intentions",
+   "b": "\"I'll exercise more\" rarely works. \"If it's 7am on Monday, then I put on my shoes and walk\" works much better. A review of 94 studies found these if-then plans had a strong effect on reaching goals.",
+   "x": "Turn one goal into: If [time or place], then I will [action].",
+   "s": "Research by Peter Gollwitzer & Paschal Sheeran (2006)"
+  },
+  {
+   "id": "p17",
+   "c": "psy",
+   "t": "Specific, hard goals beat \"do your best\"",
+   "b": "Decades of research by Locke and Latham show that clear, challenging goals lead to better performance than vague ones. \"Do your best\" gives your mind nothing to aim at.",
+   "x": "Rewrite one vague goal with a number and a date.",
+   "s": "Goal-setting theory — Edwin Locke & Gary Latham"
+  },
+  {
+   "id": "p18",
+   "c": "psy",
+   "book": "tirmidhi",
+   "t": "Plan, then trust Allah",
+   "a": "اعْقِلْهَا وَتَوَكَّلْ",
+   "b": "A man asked the Prophet ﷺ whether he should tie his camel and trust Allah, or leave it loose and trust. He said: Tie it, and trust. Every goal needs both effort and tawakkul.",
+   "x": "Do your part on one goal today, then leave the result to Allah.",
+   "s": "Jami' at-Tirmidhi 2517 (hasan)"
+  },
+  {
+   "id": "p19",
+   "c": "psy",
+   "book": "wood",
+   "t": "Your autopilot runs much of your day",
+   "b": "In Wendy Wood's diary studies, about 43% of what people did each day was done out of habit, often while thinking about something else. To change your life, change what your autopilot does.",
+   "x": "List three things you do daily without thinking. Is each one helping you?",
+   "s": "Good Habits, Bad Habits — Wendy Wood"
+  },
+  {
+   "id": "p20",
+   "c": "psy",
+   "book": "wood",
+   "t": "Change the cue, not your willpower",
+   "b": "Habits are triggered by context: a place, a time, the people around you, what you just did. People who seem to have great self-control mostly avoid temptation instead of fighting it.",
+   "x": "Change one cue: charge your phone outside the bedroom tonight.",
+   "s": "Good Habits, Bad Habits — Wendy Wood"
+  },
+  {
+   "id": "p21",
+   "c": "psy",
+   "book": "fawaid",
+   "t": "How a thought becomes a habit",
+   "a": "دَافِعِ الْخَطْرَةَ، فَإِنْ لَمْ تَفْعَلْ صَارَتْ فِكْرَةً",
+   "b": "Ibn al-Qayyim said: push away the passing thought, or it becomes an idea. Then he described the whole chain. Stop it early, because each step is harder to stop than the one before.",
+   "steps": [
+    "A passing thought (khatrah)",
+    "becomes an idea (fikrah)",
+    "becomes a desire (shahwah)",
+    "becomes a firm intention ('azimah)",
+    "becomes an action (fi'l)",
+    "becomes a habit ('adah), which is hard to leave"
+   ],
+   "x": "Catch one bad thought today at step 1, before it becomes an idea.",
+   "s": "Ibn al-Qayyim · al-Fawa'id"
+  },
+  {
+   "id": "p22",
+   "c": "psy",
+   "t": "Picture the process, not just the prize",
+   "b": "In a UCLA study, students who imagined themselves studying did better on their exam than students who only imagined getting a top grade. Visualise the steps, not just the finish line.",
+   "x": "Spend one minute picturing exactly how you'll do tomorrow's hardest task.",
+   "s": "Research by Lien Pham & Shelley Taylor (UCLA, 1999)"
+  },
+  {
+   "id": "p23",
+   "c": "psy",
+   "t": "Fake affirmations can backfire",
+   "b": "In one study, people with low self-esteem felt worse after repeating \"I am a lovable person\". When a statement feels false, the mind argues back. Saying what you're working on, or writing about values that matter to you, works better.",
+   "x": "Swap \"I am confident\" for \"I'm learning to speak up, one step at a time.\"",
+   "s": "Research by Joanne Wood and colleagues (2009)"
+  },
+  {
+   "id": "p24",
+   "c": "psy",
+   "book": "murphy",
+   "t": "Feed your mind before sleep",
+   "b": "Murphy taught that what you think about before sleep sinks into the subconscious. Science doesn't support 'programming' this way, but reviewing what you want to learn before sleep does help memory. The Sunnah also gives us adhkar for exactly this moment.",
+   "x": "Tonight, read your main goal once, then say your evening adhkar.",
+   "s": "The Power of Your Subconscious Mind — Joseph Murphy"
+  },
+  {
+   "id": "p25",
+   "c": "psy",
+   "book": "branden",
+   "t": "Confidence is a promise you keep to yourself",
+   "b": "Branden called it personal integrity: when your actions match your words, you learn to trust yourself. Every broken promise to yourself chips away at self-esteem.",
+   "x": "Make one small promise to yourself today, and keep it.",
+   "s": "The Six Pillars of Self-Esteem — Nathaniel Branden"
+  },
+  {
+   "id": "g16",
+   "c": "grow",
+   "book": "voss",
+   "t": "Mirror the last three words",
+   "b": "Repeat the last one to three words someone said, in a curious tone. It makes people feel heard and keeps them talking, so you learn more.",
+   "x": "Them: \"It's been a crazy week.\" You: \"A crazy week?\"",
+   "s": "Never Split the Difference — Chris Voss"
+  },
+  {
+   "id": "g17",
+   "c": "grow",
+   "book": "voss",
+   "t": "Name the feeling",
+   "b": "Labelling an emotion calms it down. Start with \"It seems like…\" or \"It sounds like…\", then stay quiet and let them answer.",
+   "x": "Try: \"It sounds like you're under a lot of pressure.\"",
+   "s": "Never Split the Difference — Chris Voss"
+  },
+  {
+   "id": "g18",
+   "c": "grow",
+   "book": "voss",
+   "t": "Aim for \"That's right\"",
+   "b": "\"You're right\" often means \"please stop talking\". \"That's right\" means they feel truly understood. Summarise their view so well that they say it.",
+   "x": "Before you argue, summarise their position until they say \"that's right\".",
+   "s": "Never Split the Difference — Chris Voss"
+  },
+  {
+   "id": "g19",
+   "c": "grow",
+   "book": "crucial",
+   "t": "When it gets heated, make it safe",
+   "b": "When people go silent or get aggressive, it's because they don't feel safe. Step out of the topic and restore safety: show that you share a goal and that you respect them.",
+   "x": "Say: \"I'm not trying to win this. I want us both to be happy with the result.\"",
+   "s": "Crucial Conversations — Patterson, Grenny, McMillan & Switzler"
+  },
+  {
+   "id": "g20",
+   "c": "grow",
+   "book": "crucial",
+   "t": "Say hard things with STATE",
+   "b": "Five steps to speak your mind without starting a fight.",
+   "steps": [
+    "Share your facts: what you saw or heard",
+    "Tell your story: what you think it means",
+    "Ask for their side",
+    "Talk tentatively: \"I'm starting to wonder if…\"",
+    "Encourage them to disagree"
+   ],
+   "x": "Use STATE in the next awkward conversation you've been avoiding.",
+   "s": "Crucial Conversations — Patterson, Grenny, McMillan & Switzler"
+  },
+  {
+   "id": "g21",
+   "c": "grow",
+   "book": "quran",
+   "t": "Speak gently, even to Pharaoh",
+   "a": "فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ",
+   "b": "Allah sent Musa and Harun to the worst tyrant on earth and told them: speak to him gently, that perhaps he may remember or fear Allah. If gentleness was the method for Pharaoh, it's the method for everyone.",
+   "x": "Soften your tone in your next disagreement.",
+   "s": "Qur'an 20:44 (Surat Taha)"
+  },
+  {
+   "id": "g22",
+   "c": "grow",
+   "book": "bukhari",
+   "t": "A good word is charity",
+   "a": "وَالْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+   "b": "The Prophet ﷺ said: A good word is charity. Encouragement, thanks and kind advice all count.",
+   "x": "Send one sincere message of thanks today.",
+   "s": "Sahih al-Bukhari 2989"
+  },
+  {
+   "id": "g23",
+   "c": "grow",
+   "book": "atomic",
+   "t": "The four laws of habits",
+   "b": "To build a habit, make it:",
+   "steps": [
+    "Obvious: a clear cue you can't miss",
+    "Attractive: pair it with something you enjoy",
+    "Easy: shrink it to two minutes",
+    "Satisfying: give yourself an instant reward"
+   ],
+   "x": "To break a bad habit, flip them: invisible, unattractive, hard, unsatisfying.",
+   "s": "Atomic Habits — James Clear"
+  },
+  {
+   "id": "b1",
+   "c": "biz",
+   "book": "hormozi",
+   "t": "The value equation",
+   "b": "People judge your offer on four things. Push the first two up and the last two down.",
+   "steps": [
+    "Dream outcome: how big is the result?",
+    "Likelihood: how sure are they it will work?",
+    "Time delay: how fast do they get it?",
+    "Effort & sacrifice: how easy is it for them?"
+   ],
+   "x": "Pick one offer you have. Which of the four could you improve this week?",
+   "s": "$100M Offers — Alex Hormozi"
+  },
+  {
+   "id": "b2",
+   "c": "biz",
+   "book": "hormozi",
+   "t": "Find a starving crowd",
+   "b": "A great offer to the wrong market fails, while an average offer to a desperate market sells. Choose people with a painful problem, money to spend, who are easy to reach, in a growing market.",
+   "x": "Who has a painful problem you could solve with your skills?",
+   "s": "$100M Offers — Alex Hormozi"
+  },
+  {
+   "id": "b3",
+   "c": "biz",
+   "book": "hormozi",
+   "t": "Make them feel stupid saying no",
+   "b": "Don't compete on price. Stack so much value (bonuses, guarantees, speed, support) that nobody can compare your offer to anyone else's.",
+   "x": "Add one guarantee or bonus that removes your customer's biggest fear.",
+   "s": "$100M Offers — Alex Hormozi"
+  },
+  {
+   "id": "b4",
+   "c": "biz",
+   "book": "momtest",
+   "t": "Ask questions nobody can lie to",
+   "b": "Everyone says your idea is great to be polite, even your mum. These rules get you the truth:",
+   "steps": [
+    "Talk about their life, not your idea",
+    "Ask about specific things they did in the past, not what they would do",
+    "Talk less, listen more"
+   ],
+   "x": "Ask: \"When did you last have this problem? What did you do about it?\"",
+   "s": "The Mom Test — Rob Fitzpatrick"
+  },
+  {
+   "id": "b5",
+   "c": "biz",
+   "book": "momtest",
+   "t": "Compliments are worthless, commitments are gold",
+   "b": "\"That sounds cool\" means nothing. Real interest shows up as commitment: their time (a meeting), their reputation (an introduction) or their money (a pre-order).",
+   "x": "Next time someone likes your idea, ask for a small commitment.",
+   "s": "The Mom Test — Rob Fitzpatrick"
+  },
+  {
+   "id": "b6",
+   "c": "biz",
+   "book": "storybrand",
+   "t": "Your customer is the hero, not you",
+   "b": "Most marketing talks about the company, and customers don't care. Make them the hero with a problem, and make yourself the wise guide with a plan.",
+   "x": "Rewrite your bio or post so the first sentence is about their problem.",
+   "s": "Building a StoryBrand — Donald Miller"
+  },
+  {
+   "id": "b7",
+   "c": "biz",
+   "book": "storybrand",
+   "t": "The 7-part story that sells",
+   "b": "Every clear marketing message follows this story:",
+   "steps": [
+    "A character (your customer) wants something",
+    "They have a problem",
+    "They meet a guide (you)",
+    "Who gives them a plan",
+    "And calls them to action",
+    "That helps them avoid failure",
+    "And ends in success"
+   ],
+   "x": "Write one line for each step about your skill or product.",
+   "s": "Building a StoryBrand — Donald Miller"
+  },
+  {
+   "id": "b8",
+   "c": "biz",
+   "book": "emyth",
+   "t": "Work on your business, not just in it",
+   "b": "Most small businesses are started by a skilled worker who ends up trapped doing all the work. The owner's real job is to build the system that does the work.",
+   "x": "Write down one task you repeat often, step by step, so someone else could do it.",
+   "s": "The E-Myth Revisited — Michael E. Gerber"
+  },
+  {
+   "id": "b9",
+   "c": "biz",
+   "book": "emyth",
+   "t": "Build it like you'll franchise it",
+   "b": "Imagine your business will be copied 5,000 times. Then everything must run on clear systems, not on you being there. Even if you never franchise, it makes the business calm and sellable.",
+   "x": "Ask yourself: could my business run for one week without me?",
+   "s": "The E-Myth Revisited — Michael E. Gerber"
+  },
+  {
+   "id": "b10",
+   "c": "biz",
+   "book": "goodtogreat",
+   "t": "First who, then what",
+   "b": "Great companies got the right people on the bus, and the wrong people off, before deciding where to drive. With the right people, the direction is easier to find.",
+   "x": "Who are the three people you most want on your team or in your circle?",
+   "s": "Good to Great — Jim Collins"
+  },
+  {
+   "id": "b11",
+   "c": "biz",
+   "book": "goodtogreat",
+   "t": "Find your hedgehog",
+   "b": "The great companies focused only on where three circles overlap:",
+   "steps": [
+    "What you can be the best in the world at",
+    "What drives your income best",
+    "What you are deeply passionate about"
+   ],
+   "x": "Draw the three circles for yourself tonight.",
+   "s": "Good to Great — Jim Collins"
+  },
+  {
+   "id": "b12",
+   "c": "biz",
+   "book": "zerotoone",
+   "t": "Start small and dominate",
+   "b": "Every big company started by owning a small market. Amazon started with books, Facebook with one university. Be the best for a small group first, then expand.",
+   "x": "Name the smallest group you could become the go-to person for.",
+   "s": "Zero to One — Peter Thiel"
+  },
+  {
+   "id": "b13",
+   "c": "biz",
+   "book": "zerotoone",
+   "t": "What do you know that others don't?",
+   "b": "Thiel's favourite question: what important truth do very few people agree with you on? Great businesses are built on a secret that others missed.",
+   "x": "Write one honest answer to that question.",
+   "s": "Zero to One — Peter Thiel"
+  },
+  {
+   "id": "b14",
+   "c": "biz",
+   "book": "history",
+   "t": "Toyota let any worker stop the factory",
+   "b": "On Toyota's lines, any worker could pull the andon cord to stop production when they spotted a problem. Others thought it was crazy. It forced problems to be fixed at the source, and Toyota's quality became legendary.",
+   "x": "Fix problems the moment you see them, before they grow.",
+   "s": "Toyota Production System — Taiichi Ohno"
+  },
+  {
+   "id": "b15",
+   "c": "biz",
+   "book": "history",
+   "t": "McDonald's: cut the menu, win the market",
+   "b": "In 1948 the McDonald brothers cut their menu to nine items and designed their kitchen like a factory line, even drawing it in chalk on a tennis court to test it. Food came out in seconds. Simplicity scaled.",
+   "x": "What could you remove to make your product faster or simpler?",
+   "s": "The McDonald brothers' Speedee Service System, 1948"
+  },
+  {
+   "id": "b16",
+   "c": "biz",
+   "book": "history",
+   "t": "Know what business you're really in",
+   "b": "Ray Kroc's company struggled to make money from franchise fees. His finance chief Harry Sonneborn saw the real opportunity: buy the land and lease it to franchisees. McDonald's became one of the world's biggest property owners.",
+   "x": "Ask: where does the real money in my field actually come from?",
+   "s": "McDonald's history — Ray Kroc & Harry Sonneborn"
+  },
+  {
+   "id": "b17",
+   "c": "biz",
+   "book": "history",
+   "t": "Nintendo: old tech, new ideas",
+   "b": "Nintendo started in 1889 making playing cards. Designer Gunpei Yokoi's rule was \"lateral thinking with withered technology\": use cheap, proven tech in new ways. The Game Boy was weaker than its rivals, but cheaper, tougher and easier on batteries, and it won.",
+   "x": "What simple tool you already have could you use in a new way?",
+   "s": "Nintendo history — Gunpei Yokoi"
+  },
+  {
+   "id": "b18",
+   "c": "biz",
+   "book": "history",
+   "t": "Walmart went where giants didn't",
+   "b": "Big retailers ignored small towns. Sam Walton opened stores there, won those markets completely, then grew outward. He was also famous for walking competitors' stores and taking notes on what they did well.",
+   "x": "Find a customer group the big players ignore.",
+   "s": "Sam Walton — Made in America"
+  },
+  {
+   "id": "b19",
+   "c": "biz",
+   "book": "history",
+   "t": "Apple saved itself by saying no",
+   "b": "When Steve Jobs returned in 1997, Apple was close to bankruptcy and sold dozens of products. He cut them to four: a desktop and a laptop for consumers, and the same for professionals. Focus brought Apple back.",
+   "x": "List what you're working on. What would you cut to focus on the best two?",
+   "s": "Apple history, 1997"
+  },
+  {
+   "id": "b20",
+   "c": "biz",
+   "book": "history",
+   "t": "Amazon writes the press release first",
+   "b": "Before building a new product, Amazon teams write the press release announcing it, plus answers to customers' likely questions. If the announcement isn't exciting, they don't build it. They call it working backwards.",
+   "x": "Write a five-line announcement for your idea before you build anything.",
+   "s": "Amazon's \"Working Backwards\" process"
+  },
+  {
+   "id": "b21",
+   "c": "biz",
+   "book": "bukhari",
+   "t": "\"Show me the market\"",
+   "a": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، دُلُّونِي عَلَى السُّوقِ",
+   "b": "When Abdur-Rahman ibn Awf arrived in Madinah with nothing, his Ansari brother offered him half his wealth. He replied: May Allah bless your family and wealth for you. Show me the market. He became one of the richest Companions through trade.",
+   "x": "Instead of waiting for help, ask: where is my market?",
+   "s": "Sahih al-Bukhari 2048"
+  },
+  {
+   "id": "b22",
+   "c": "biz",
+   "book": "sirah",
+   "t": "Khadijah hired for honesty",
+   "b": "Khadijah (RA) was a successful merchant who hired men to trade her goods. She hired Muhammad ﷺ, known as al-Amin, the trustworthy, to take her caravan to Syria. His honesty and the profit he brought impressed her, and she later proposed marriage to him.",
+   "x": "Build a name for trustworthiness. It's your best marketing.",
+   "s": "Sirat Ibn Hisham"
+  },
+  {
+   "id": "b23",
+   "c": "biz",
+   "book": "bukhari",
+   "t": "Honesty brings barakah to a deal",
+   "a": "فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا",
+   "b": "If the buyer and seller are truthful and make things clear, their deal is blessed. If they hide things and lie, the blessing of their deal is wiped out.",
+   "x": "Tell a customer one honest limitation of your product or service.",
+   "s": "Sahih al-Bukhari 2079 · Sahih Muslim 1532"
+  },
+  {
+   "id": "b24",
+   "c": "biz",
+   "t": "Allah loves work done with excellence",
+   "a": "إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ",
+   "b": "Allah loves that when one of you does a job, he does it with excellence (itqan). Quality work is a form of worship.",
+   "x": "Do one task today 10% better than it needs to be.",
+   "s": "Al-Bayhaqi, Shu'ab al-Iman · hasan (al-Albani, Sahih al-Jami' 1880)"
+  },
+  {
+   "id": "b25",
+   "c": "biz",
+   "book": "quran",
+   "t": "After prayer, go seek your provision",
+   "a": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن فَضْلِ اللَّهِ",
+   "b": "And when the prayer is finished, spread out in the land and seek from the bounty of Allah. Worship and work go together.",
+   "x": "After Jumu'ah this week, do one task that grows your income.",
+   "s": "Qur'an 62:10 (Surat al-Jumu'ah)"
+  }
+ ]
+}
