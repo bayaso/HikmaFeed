@@ -1,29 +1,33 @@
 {
- "version": 2,
+ "version": 3,
  "categories": [
   {
    "id": "psy",
    "label": "Psychology",
-   "light": "#2F4FA8",
-   "dark": "#8FA8F0"
+   "light": "#3554B5",
+   "dark": "#263F8A",
+   "icon": "brain.head.profile"
   },
   {
    "id": "grow",
    "label": "Self-growth",
-   "light": "#A0610E",
-   "dark": "#E3A857"
+   "light": "#A85A10",
+   "dark": "#85460C",
+   "icon": "mountain.2.fill"
   },
   {
    "id": "biz",
    "label": "Business",
    "light": "#6A3D9A",
-   "dark": "#B89AE6"
+   "dark": "#4F2D75",
+   "icon": "briefcase.fill"
   },
   {
    "id": "isl",
    "label": "Islamic",
    "light": "#17725A",
-   "dark": "#5FC7A6"
+   "dark": "#105443",
+   "icon": "moon.stars.fill"
   }
  ],
  "books": [
@@ -271,6 +275,41 @@
    "author": "Ibn Hisham (from Ibn Ishaq)",
    "c": "isl",
    "about": "The earliest full biography of the Prophet Muhammad ﷺ, including his years as a trusted merchant before prophethood."
+  },
+  {
+   "id": "proctor",
+   "title": "Bob Proctor's Teachings",
+   "author": "Bob Proctor",
+   "c": "grow",
+   "about": "Bob Proctor (1934–2022) taught that results come from your 'paradigm': the habits and beliefs stored in your subconscious mind. Main sources: You Were Born Rich (1984) and his Thinking Into Results programme. Some of his ideas, like the 'law of attraction', are beliefs rather than proven science."
+  },
+  {
+   "id": "rohn",
+   "title": "Jim Rohn's Philosophy",
+   "author": "Jim Rohn",
+   "c": "grow",
+   "about": "Jim Rohn (1930–2009) was a business philosopher who taught that success comes from a few simple disciplines repeated every day. Key sources: The Five Major Pieces to the Life Puzzle, The Seasons of Life, and decades of seminars."
+  },
+  {
+   "id": "strangest",
+   "title": "The Strangest Secret",
+   "author": "Earl Nightingale",
+   "c": "grow",
+   "about": "A 1956 recorded talk that earned a Gold Record for selling over a million copies. Its core idea: we become what we think about."
+  },
+  {
+   "id": "tagr",
+   "title": "Think and Grow Rich",
+   "author": "Napoleon Hill",
+   "c": "grow",
+   "about": "A 1937 classic built on Hill's claim that he studied hundreds of successful people. Historians question some of his stories, but its focus on desire, purpose and persistence still shapes the self-growth world."
+  },
+  {
+   "id": "tracy",
+   "title": "Eat That Frog! & Maximum Achievement",
+   "author": "Brian Tracy",
+   "c": "grow",
+   "about": "Brian Tracy's practical system for beating procrastination, setting goals and managing time: do the most important thing first, every day."
   }
  ],
  "cards": [
@@ -1194,6 +1233,492 @@
    "b": "And when the prayer is finished, spread out in the land and seek from the bounty of Allah. Worship and work go together.",
    "x": "After Jumu'ah this week, do one task that grows your income.",
    "s": "Qur'an 62:10 (Surat al-Jumu'ah)"
+  },
+  {
+   "id": "pr1",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Your paradigm runs your life",
+   "b": "A paradigm is a set of habits and beliefs stored in your subconscious mind. Proctor taught that it controls your results more than your knowledge does. That's why people know what to do but still don't do it.",
+   "x": "Name one result you keep getting. What belief might be behind it?",
+   "s": "Bob Proctor · Thinking Into Results"
+  },
+  {
+   "id": "pr2",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Change the paradigm through repetition",
+   "b": "Proctor said a paradigm changes in two ways: an emotional shock, or spaced repetition of a new idea. You can't plan a shock, so repeat the new idea daily until it feels normal.",
+   "x": "Pick one new belief. Read it aloud morning and night for 30 days.",
+   "s": "Bob Proctor · Thinking Into Results"
+  },
+  {
+   "id": "pr3",
+   "c": "grow",
+   "book": "proctor",
+   "t": "The stick person: how results happen",
+   "b": "Proctor drew a simple figure to explain where results come from:",
+   "steps": [
+    "Your conscious mind chooses thoughts",
+    "Repeated thoughts are stored in your subconscious",
+    "Your subconscious drives your feelings",
+    "Feelings drive your actions",
+    "Actions produce your results"
+   ],
+   "x": "To change a result, start at the top: choose a new thought on purpose.",
+   "s": "Bob Proctor · Thinking Into Results"
+  },
+  {
+   "id": "pr4",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Write a goal card and carry it",
+   "b": "Write your main goal on a small card in the present tense, as if it's already done: \"I am so happy and grateful now that…\". Carry it and read it several times a day.",
+   "x": "Write your goal card today and keep it in your wallet or phone case.",
+   "s": "Bob Proctor · You Were Born Rich"
+  },
+  {
+   "id": "pr5",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Set a goal that scares and excites you",
+   "b": "Proctor taught that a real goal should sit just beyond your current ability. If you already know exactly how to reach it, it won't force you to grow.",
+   "x": "Look at your main goal. Does it make you a little nervous? If not, raise it.",
+   "s": "Bob Proctor · Thinking Into Results"
+  },
+  {
+   "id": "pr6",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Push through the terror barrier",
+   "b": "When you move toward a big goal, your old paradigm fights back with fear and doubt. Proctor called this the terror barrier. Most people turn back there. Those who push through find freedom on the other side.",
+   "x": "When the fear comes, name it, and take one small step anyway.",
+   "s": "Bob Proctor · Thinking Into Results"
+  },
+  {
+   "id": "pr7",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Decide first, the \"how\" comes later",
+   "b": "Proctor said: decide what you want, and the way will appear as you move. Waiting to see the full plan before you commit keeps most people stuck forever.",
+   "x": "Commit to one goal today without knowing every step. Write it down.",
+   "s": "Bob Proctor · You Were Born Rich"
+  },
+  {
+   "id": "pr8",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Train your six mental faculties",
+   "b": "Besides your five senses, Proctor taught six mental tools that grow stronger with use:",
+   "steps": [
+    "Imagination: see what isn't there yet",
+    "Will: hold your focus on one thing",
+    "Perception: choose how you see a situation",
+    "Reason: think things through",
+    "Intuition: pick up on what isn't said",
+    "Memory: strengthen it by using it"
+   ],
+   "x": "Train one today: spend 5 minutes using your imagination on your goal.",
+   "s": "Bob Proctor · Thinking Into Results"
+  },
+  {
+   "id": "pr9",
+   "c": "biz",
+   "book": "proctor",
+   "t": "The law of compensation",
+   "b": "Proctor taught that your income is tied to three things: the need for what you do, your ability to do it, and how hard it would be to replace you. To earn more, grow all three.",
+   "x": "Which of the three could you raise this year?",
+   "s": "Bob Proctor · You Were Born Rich"
+  },
+  {
+   "id": "pr10",
+   "c": "biz",
+   "book": "proctor",
+   "t": "Build more than one source of income",
+   "b": "Most people trade hours for money, and hours run out. Proctor taught that wealthy people build several income sources that don't all depend on their time.",
+   "x": "Brainstorm one income idea that doesn't need your time every hour.",
+   "s": "Bob Proctor · You Were Born Rich"
+  },
+  {
+   "id": "pr11",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Study one great book for years",
+   "b": "Proctor read Think and Grow Rich almost every day for over 50 years, and said he understood it better each time. Going deep with one great book beats skimming hundreds.",
+   "x": "Pick the book that changed you most. Reread one chapter this week.",
+   "s": "Bob Proctor"
+  },
+  {
+   "id": "pr12",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Start with gratitude",
+   "a": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+   "b": "Proctor began every goal statement with \"I am so happy and grateful now that…\". Gratitude puts you in a state where action is easier. The Qur'an goes further: If you are grateful, I will surely increase you.",
+   "x": "Write three things you're grateful for before you check your phone tomorrow.",
+   "s": "Bob Proctor · Qur'an 14:7"
+  },
+  {
+   "id": "pr13",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Real thinking is rare work",
+   "b": "Proctor said most people don't really think. They react to what's around them. Real thinking means building ideas in your own mind, on purpose, with no distractions.",
+   "x": "Spend 15 minutes with a notebook today on one problem. No phone.",
+   "s": "Bob Proctor · Thinking Into Results"
+  },
+  {
+   "id": "pr14",
+   "c": "grow",
+   "book": "proctor",
+   "t": "Act like the person you're becoming",
+   "b": "Proctor taught: see yourself already living your goal, then act like that person now, in how you speak, dress and spend your time.",
+   "x": "Ask: how would the person who reached my goal spend tomorrow morning? Do that.",
+   "s": "Bob Proctor · You Were Born Rich"
+  },
+  {
+   "id": "pr15",
+   "c": "grow",
+   "book": "proctor",
+   "t": "The law of attraction: a belief, not science",
+   "b": "Proctor famously taught the 'law of attraction': that your thoughts and 'vibration' attract matching results. There's no scientific evidence for that part. What research does support is clear goals, focus and repeated action.",
+   "x": "Keep the vision and the focus. Add the action, and the du'a.",
+   "s": "Bob Proctor · with a science check"
+  },
+  {
+   "id": "r1",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Work harder on yourself than on your job",
+   "b": "Rohn's most famous line. Your job pays you for your time, but working on yourself makes you more valuable, and value is what gets paid.",
+   "x": "Spend 30 minutes today on a skill that makes you more valuable.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r2",
+   "c": "grow",
+   "book": "rohn",
+   "t": "The five pieces of the life puzzle",
+   "b": "Rohn taught that every life is built from five pieces:",
+   "steps": [
+    "Philosophy: what you know and believe",
+    "Attitude: how you feel about it",
+    "Activity: what you do about it",
+    "Results: what you get from the activity",
+    "Lifestyle: how you design your life with the results"
+   ],
+   "x": "Which piece is weakest for you right now?",
+   "s": "Jim Rohn · The Five Major Pieces to the Life Puzzle"
+  },
+  {
+   "id": "r3",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Discipline or regret",
+   "b": "Rohn taught that everyone suffers one of two pains: the pain of discipline or the pain of regret. Discipline weighs ounces. Regret weighs tons.",
+   "x": "Choose one small discipline today that saves you a big regret later.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r4",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Success is a few simple disciplines",
+   "b": "Rohn said success is a few simple disciplines practised every day, and failure is a few small errors in judgement repeated every day. Neither shows up in a single day.",
+   "x": "Name one small daily error you could stop this week.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r5",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Don't wish it were easier",
+   "b": "Hard times come to everyone, like winter. Rohn's advice: don't wish it were easier, wish you were better. Don't wish for fewer problems, wish for more skills.",
+   "x": "In your current difficulty, which skill would help you handle it better?",
+   "s": "Jim Rohn · The Seasons of Life"
+  },
+  {
+   "id": "r6",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Use each season of life",
+   "b": "Rohn compared life to the seasons of a farm:",
+   "steps": [
+    "Winter: hard times come. Don't wish them away, grow stronger",
+    "Spring: opportunity. Plant something while you can",
+    "Summer: protect what you planted from the weeds",
+    "Autumn: harvest what you planted, without complaint or apology"
+   ],
+   "x": "Which season are you in? What should you be doing in it?",
+   "s": "Jim Rohn · The Seasons of Life"
+  },
+  {
+   "id": "r7",
+   "c": "grow",
+   "book": "rohn",
+   "t": "You become like the people around you",
+   "a": "الرَّجُلُ عَلَى دِينِ خَلِيلِهِ، فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ",
+   "b": "Rohn is credited with the idea that you're the average of the five people you spend the most time with. The Prophet ﷺ said it 1,400 years earlier: A person is upon the way of his close friend, so let each of you look at whom he befriends.",
+   "x": "List your five closest people. Who lifts you, and who pulls you down?",
+   "s": "Jim Rohn · Sunan Abi Dawud 4833, Tirmidhi 2378 (hasan)"
+  },
+  {
+   "id": "r8",
+   "c": "biz",
+   "book": "rohn",
+   "t": "Profits are better than wages",
+   "b": "Rohn taught that wages can make you a living, but profits can make you a fortune. Keep your job if you need it, but start something on the side that earns a profit.",
+   "x": "What could you sell this month, even something small, to earn your first profit?",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r9",
+   "c": "biz",
+   "book": "rohn",
+   "t": "The 70/10/10/10 money rule",
+   "b": "Rohn's plan for every pay cheque, however small:",
+   "steps": [
+    "Live on 70%",
+    "Give 10% in charity",
+    "Invest 10% to build capital (choose halal options)",
+    "Save 10% for emergencies and opportunities"
+   ],
+   "x": "Next pay day, split your money this way, even with small amounts.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r10",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Read every day, write it down",
+   "b": "Rohn said the book you don't read can't help you, and an idea you don't write down is soon gone. He kept journals of everything he learned for decades.",
+   "x": "Start a Hikmah journal: write down one idea a day from this app.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r11",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Run the day, or the day runs you",
+   "b": "Rohn taught: don't start a day until it's planned. Without a plan, other people's priorities fill your time.",
+   "x": "Tonight, write tomorrow's plan in five lines.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r12",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Find a strong enough why",
+   "b": "Rohn taught that when your reasons are strong enough, the how gets easier. Weak reasons give up at the first obstacle.",
+   "x": "Write five reasons why your main goal matters to you.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r13",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Be happy now, while you pursue more",
+   "b": "Rohn taught to be happy with what you have while you work for what you want. This is close to qana'ah: being content with Allah's provision without giving up effort.",
+   "x": "Thank Allah for one thing you have before you think about what you want.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r14",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Don't join an easy crowd",
+   "b": "Rohn advised joining a group where the expectations are high, because you won't grow where everything is easy.",
+   "x": "Find one class, group or mentor that will stretch you.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "r15",
+   "c": "grow",
+   "book": "rohn",
+   "t": "Nobody can do your push-ups for you",
+   "b": "Rohn liked to say you can't hire someone to do your push-ups for you. Reading, discipline, prayer and growth are things only you can do.",
+   "x": "Do one thing today for your growth that only you can do.",
+   "s": "Jim Rohn"
+  },
+  {
+   "id": "n1",
+   "c": "grow",
+   "book": "strangest",
+   "t": "We become what we think about",
+   "b": "This was Nightingale's 'strangest secret'. A person thinking about a clear, worthy goal moves toward it. A person with no goal drifts wherever life pushes them.",
+   "x": "What have you thought about most today? Is it moving you toward your goal?",
+   "s": "The Strangest Secret — Earl Nightingale"
+  },
+  {
+   "id": "n2",
+   "c": "grow",
+   "book": "strangest",
+   "t": "Success is moving toward a worthy goal",
+   "b": "Nightingale defined success as \"the progressive realisation of a worthy ideal\". It isn't only the finish line. Anyone moving step by step toward a worthy goal is already succeeding.",
+   "x": "Write your worthy ideal in one sentence.",
+   "s": "The Strangest Secret — Earl Nightingale"
+  },
+  {
+   "id": "n3",
+   "c": "grow",
+   "book": "strangest",
+   "t": "One hour a day builds an expert",
+   "b": "Nightingale taught that one hour a day of study in your field would put you near the top of it within about five years.",
+   "x": "Block one hour a day this week to study your field.",
+   "s": "Earl Nightingale"
+  },
+  {
+   "id": "n4",
+   "c": "grow",
+   "book": "strangest",
+   "t": "The time will pass anyway",
+   "b": "Nightingale said not to give up on a dream because of how long it will take. The years are going to pass either way. The only question is whether they bring you closer.",
+   "x": "Start the long goal you've been delaying. Day one is today.",
+   "s": "Earl Nightingale"
+  },
+  {
+   "id": "n5",
+   "c": "grow",
+   "book": "strangest",
+   "t": "Take the 30-day test",
+   "b": "At the end of The Strangest Secret, Nightingale sets a challenge. Write your goal on a card and think about it often. For 30 days, don't let negative thoughts take over. If you slip, start the 30 days again.",
+   "x": "Start your 30 days today.",
+   "s": "The Strangest Secret — Earl Nightingale"
+  },
+  {
+   "id": "h1",
+   "c": "grow",
+   "book": "tagr",
+   "t": "A burning desire, not a wish",
+   "b": "Hill taught that every achievement starts with a desire so strong it becomes an obsession. Wishing is passive. Desire makes you act.",
+   "x": "Turn one wish into a desire: what are you willing to give for it?",
+   "s": "Think and Grow Rich — Napoleon Hill"
+  },
+  {
+   "id": "h2",
+   "c": "grow",
+   "book": "tagr",
+   "t": "Hill's six steps to a big goal",
+   "b": "Hill's method, for money or any big goal:",
+   "steps": [
+    "Decide exactly what you want",
+    "Decide what you'll give in return",
+    "Set a definite date",
+    "Make a plan and start at once, ready or not",
+    "Write it all in one clear statement",
+    "Read it aloud twice a day, morning and night"
+   ],
+   "x": "Write your statement tonight.",
+   "s": "Think and Grow Rich — Napoleon Hill"
+  },
+  {
+   "id": "h3",
+   "c": "grow",
+   "book": "tagr",
+   "t": "Form a mastermind",
+   "a": "وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ",
+   "b": "Hill taught that two or more people working together toward a definite goal create more than each could alone. The Qur'an commands the same: cooperate in goodness and piety.",
+   "x": "Invite two driven friends to meet weekly and push each other's goals.",
+   "s": "Think and Grow Rich — Napoleon Hill · Qur'an 5:2"
+  },
+  {
+   "id": "h4",
+   "c": "grow",
+   "book": "tagr",
+   "t": "Every setback carries a seed",
+   "b": "Hill wrote that every adversity and failure carries the seed of an equal or greater benefit. Your job is to look for the seed.",
+   "x": "Write down one past setback, and one good thing that came from it.",
+   "s": "Think and Grow Rich — Napoleon Hill"
+  },
+  {
+   "id": "h5",
+   "c": "grow",
+   "book": "tagr",
+   "t": "Three feet from gold",
+   "b": "Hill tells of R.U. Darby, who stopped digging for gold and sold his machine for scrap. The buyer hired an expert and found gold just three feet further down. Persistence is what most people lack.",
+   "x": "What did you give up on too early? Try once more.",
+   "s": "Think and Grow Rich — Napoleon Hill"
+  },
+  {
+   "id": "t1",
+   "c": "grow",
+   "book": "tracy",
+   "t": "Eat that frog first",
+   "b": "Do your hardest, most important task first thing in the morning, and the rest of the day feels easy. If you have two frogs, eat the ugliest one first.",
+   "x": "Name tomorrow's frog tonight.",
+   "s": "Eat That Frog! — Brian Tracy"
+  },
+  {
+   "id": "t2",
+   "c": "grow",
+   "book": "tracy",
+   "t": "Sort tasks with ABCDE",
+   "b": "Before you start, label every task on your list:",
+   "steps": [
+    "A: must do, serious consequences if not",
+    "B: should do, mild consequences",
+    "C: nice to do, no real consequences",
+    "D: delegate it to someone else",
+    "E: eliminate it completely"
+   ],
+   "x": "Don't touch a B task while an A task is undone.",
+   "s": "Eat That Frog! — Brian Tracy"
+  },
+  {
+   "id": "t3",
+   "c": "grow",
+   "book": "tracy",
+   "t": "The 80/20 rule",
+   "b": "About 20% of your tasks create 80% of your results. Find the few that matter most and give them your best energy.",
+   "x": "Circle the two tasks on today's list that matter most.",
+   "s": "Eat That Frog! — Brian Tracy"
+  },
+  {
+   "id": "t4",
+   "c": "grow",
+   "book": "tracy",
+   "t": "Write your goals every morning",
+   "b": "Tracy recommends writing your top 10 goals each morning in the present tense, without looking at yesterday's list. Repetition keeps them at the front of your mind.",
+   "x": "Tomorrow morning, write 10 goals as \"I…\" statements.",
+   "s": "Maximum Achievement — Brian Tracy"
+  },
+  {
+   "id": "t5",
+   "c": "grow",
+   "book": "tracy",
+   "t": "Invest 3% of your income in yourself",
+   "b": "Tracy advises putting 3% of your income into books, courses and learning. Your ability to earn is your most valuable asset, so keep upgrading it.",
+   "x": "Work out 3% of your income. What will you learn with it this month?",
+   "s": "Brian Tracy"
+  },
+  {
+   "id": "t6",
+   "c": "grow",
+   "book": "tracy",
+   "t": "Turn your commute into a university",
+   "b": "Tracy suggests listening to audio lessons while you drive or travel. Over a year, those hours add up to the time of a university course.",
+   "x": "Put on an audiobook or lecture for your next commute.",
+   "s": "Brian Tracy"
+  },
+  {
+   "id": "i22",
+   "c": "isl",
+   "book": "bukhari",
+   "t": "Allah is as you expect Him to be",
+   "a": "أَنَا عِنْدَ ظَنِّ عَبْدِي بِي",
+   "b": "Allah says: I am as My servant thinks of Me. This is the real positive mindset: expect good from Allah, then work for it.",
+   "x": "Make du'a today for your biggest goal, expecting Allah to answer.",
+   "s": "Sahih al-Bukhari 7405 · Sahih Muslim 2675"
+  },
+  {
+   "id": "i23",
+   "c": "grow",
+   "book": "quran",
+   "t": "You get what you strive for",
+   "a": "وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ",
+   "b": "And that a person will have nothing except what he strives for. Vision and positive thinking matter, but this verse makes it clear: the striving is what counts.",
+   "x": "Turn today's best idea into one real action before sunset.",
+   "s": "Qur'an 53:39 (Surat an-Najm)"
   }
  ]
 }
